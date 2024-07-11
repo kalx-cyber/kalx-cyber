@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalx-cyber: Ramanzani Kalule
 - 👀 I’m interested in mathematical optimization, machine learning and image processing
-- 🌱 I’m currently in my final year PhD and learning more optimization
+- 🌱 I have a PhD in Engineering
 - - 📫 How to reach me rkaluleiit@gmail.com
 
 <!---
